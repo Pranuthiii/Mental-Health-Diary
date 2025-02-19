@@ -1,5 +1,3 @@
-# Mental-Health-Diary
-📌 Mental Health Diary – A simple macOS-style diary app built with Python (Tkinter) &amp; SQLite to help users track their mental well-being. Features mood selection, self-care suggestions, and past entry retrieval.
 # 📝 Mental Health Diary App
 
 A **simple and elegant** mental health diary designed for macOS users. Built with **Python (Tkinter)** and **SQLite**, this app helps you track your daily mental health, store entries securely, and get personalized self-care suggestions.

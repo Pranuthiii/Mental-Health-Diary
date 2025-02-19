@@ -9,8 +9,6 @@ A **simple and elegant** mental health diary designed for macOS users. Built wit
 ✅ **Past Entries View** – Retrieve and read past diary entries.  
 ✅ **macOS Look & Feel** – Styled to match **macOS aesthetics** with `ttk` themes.  
 
-## 📸 Screenshots
-🚀 *Coming soon!*
 
 ## 🛠 Installation & Usage
 ### **1️⃣ Install Python (if not installed)**
